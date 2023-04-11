@@ -1,4 +1,5 @@
 
 # new-project
 
-hot fixes for testprojects
+hot fixes for testprojects-branching startegy
+
